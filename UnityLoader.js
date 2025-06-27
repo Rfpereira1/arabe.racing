@@ -1,0 +1,1 @@
+// Simulação de loader Unity
